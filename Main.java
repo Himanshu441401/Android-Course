@@ -8,5 +8,10 @@ public class Main {
         }
         System.out.println("helkdl");
         System.out.println("Hello Himanshu Pande");
+        System.out.println("j");
+
+        if (b < 1) {
+            System.out.println("Hello himanshu pande krishna je");
+        }
     }
 }
